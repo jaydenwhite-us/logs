@@ -4,8 +4,8 @@
 
 ## Welcome
 
-- I am not attempting to be unique. Everyone has similar meatware to
-  myself. I aim to be retoolable and effective. To make viable solutions
+- I am not attempting to be unique. Everyone has similar ware.
+  I aim to be retoolable and effective. To make viable solutions
   from basic building blocks.
 
 ### Purpose of this repo:
