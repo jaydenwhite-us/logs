@@ -2,4 +2,5 @@
 Data Engineer, Independent Contractor
 
 - Remote support to Bennington College. Phase out role.
-- Salvaged 10 years of energy and utility data.
+- Salvaged 10 years of utilities data from bad csv's. Used
+  NodeJS and subject matter expert input to do so.
