@@ -44,13 +44,16 @@ to their fears.
 
 It also verified the
 security hole PaperCut
-aimed to fill. The ability to
+aimed to fill.
+
+The ability to
 release a job at the printer
 would keep private information
 private.
 
 In the end, the college redeployed
-the printers to reduce
+the printers in a way that
+reduced
 service fees from paper jams.
 
 This was the best solution
