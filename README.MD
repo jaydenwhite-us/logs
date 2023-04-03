@@ -21,7 +21,6 @@
 
 ### aka:
 
-- asr (another stupid resume)
 - log (log file)
 
 ### funny phrases that come from this:
