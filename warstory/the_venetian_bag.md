@@ -7,8 +7,10 @@ installation that was
 not autosaving.
 
 They feared the loss of their
-current research. That information
-was due in three days.
+current research. That
+information was due
+in three days.
+
 And this was their fourth or
 fifth time in the office
 over the course of months.
@@ -25,10 +27,11 @@ restarted Word, and it was fixed.
 Good God, they were elated,
 they bought me a venetian bag.
 Their speech for a conference
-in Venus was on that laptop,
+in Venice was on that laptop,
 and I had saved it.
 
-I could fix their problem
+I was able
+to fix their problem
 because I recognized its
 severity.
 
@@ -38,9 +41,11 @@ to be practitioners, and here
 the IT Department was failing
 that promise.
 
-We had not given the correct
+We did not give the correct
 attention to a data integrity
-issue with a key piece of software
-that we publicly endorse on all
-of our equipment. And that just
+issue with a key piece of
+software that we publicly
+endorsed, on all of our machines.
+
+And that just
 wouldn't fly with me.
