@@ -1,41 +1,46 @@
-Working in the college
-woodshop. I heard a student
-let out a terrible scream.
+I do perform well under
+pressure.
 
-The first scream
-made me turn and freeze.
-The next scream we locked eyes,
-and I realized she was holding
-her hand where the finger should be.
+One semester I built
+an instrument, and I used
+the tools in the college
+woodshop to do it.
 
-Zoom. I crossed the room in
-no time hit the big red,
-button stop all machines.
+And one day a student cut
+off their finger. And I
+happened to be one of the
+only three people there.
 
-First I needed to make sure
-she didn't faint from shock,
-'cause she could fall
-and get a worse injury.
-Second I needed to stop
-or slow the bleeding.
-Third I needed to
-get her to help.
+Their scream made me freeze.
+And it did take a second to
+see she was holding her hand
+where her finger should be.
 
-In less than two minutes
-I'd led her from screaming to
-deep breathing.
+But then I crossed the room in
+no time. Hit the big red,
+button to stop every machine.
 
-We slowed the bleeding,
-She quickly stabilized
-enough to go to Campus Safety.
+I led her from screaming to
+deep breathing, so I and
+the other person could get
+close enough to slow the
+bleeding and sit her down.
 
-They put her in a car
-and drove her straight
-to the hospital.
+All the while staying alert
+for signs of shock.
 
-They couldn't re-attach the finger.
+We slowed the bleeding, and
+stabilized her.
 
-But the next day, the student came
-and thanked me for acting quickly
-and keeping a bad day from being
-worse.
+The Campus Safety Team
+put her in a car and drove
+her straight to the hospital.
+
+They couldn't re-attach
+the finger.
+
+But the next day, the student
+thanked me for acting quickly,
+
+and keeping a bad day from
+being worse.
