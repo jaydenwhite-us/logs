@@ -19,10 +19,6 @@
 - Use unix for concatenation
 - Use pandoc for conversion
 
-### aka:
-
-- log (log file)
-
 ### funny phrases that come from this:
 
 - grep the logs.
