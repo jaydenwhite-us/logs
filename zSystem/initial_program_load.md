@@ -1,10 +1,15 @@
 IPL is
 when a zSystem comes to life.
+
 The initial program load
 is when all of the mappings
 for input and output are loaded
-into memory, and all of the
-logical computers you are looking
+into memory,
+
+and all of the
+logical computers
+
+you want
 to build are made.
 
 So when a signal gets from point

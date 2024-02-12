@@ -26,3 +26,4 @@
 - Unix
 - UX Design
 - Windows 10
+- Zowe

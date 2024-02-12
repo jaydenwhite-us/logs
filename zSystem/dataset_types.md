@@ -1,4 +1,5 @@
-There are sequential datasets,
+There are
+sequential datasets,
 partitioned datasets,
 and VASM's.
 
@@ -13,10 +14,13 @@ VSAMS
 take it a step further
 as a VSAM can be sequential
 like a text file
-or indexed like like hashmap.
+or indexed like a hashmap.
 
 It can also be relative,
+
+sorta
 like an SQL database,
 or linear like an In Memory
-Database that can only be read
+Database that can
+strictly be read
 sequentially.

@@ -15,3 +15,8 @@ trying to run the job,
 otherwise,
 the job will fail, usually with
 an error code 8 or higher.
+
+You can check your
+job logs
+fix your definition
+and try again.
