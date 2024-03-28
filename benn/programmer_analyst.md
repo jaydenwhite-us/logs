@@ -1,7 +1,7 @@
 2018-11-01 to 2020-06-30  
 Business Analyst & Programmer (Intern), Bennington College
 
-- Member of IT department (~1.7 billion dollar budget).
+- Member of IT department (~1.7 million dollar budget).
 - Reported to CIO. Spearheaded new data projects.
 - Mined campus printing data to improve asset
   deployment and foster sustainable printing practices.
