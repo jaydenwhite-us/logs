@@ -4,6 +4,7 @@
 - C++
 - Calculus
 - Cascading Style Sheets (CSS)
+- Conducting
 - Data Analysis
 - Data Engineering
 - DNS ( Domain Name System )
@@ -12,8 +13,10 @@
 - Hardware Service Life Estimation
 - HTML
 - JavaScript
+- Music Notation
 - NodeJS
 - NoSQL
+- Orchestration
 - R (Programming Language)
 - React.js
 - Rust

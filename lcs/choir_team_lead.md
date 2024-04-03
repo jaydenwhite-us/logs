@@ -1,4 +1,4 @@
-2013-08-01 to 2016-06-31  
+2013-08-01 to 2016-06-30  
 Tenor Choir, LCS
 
 - Weekly sectionals. Teaching sight reading. Progress reports.
