@@ -23,9 +23,9 @@
 
 - grep the logs.
 
-### availability
+### Current availability
 - Wednesday - Sunday
-- 40 hours, four days a week
-- Reasoning: [40 hours: Why do we treat the ceiling like the floor?]
-(https://docs.google.com/presentation/d/11A3WbVWtyfla6AiycuXb0x8PcCYuIxy_2pTQeUdBd7c/edit#slide=id.p)
+- 40 hours, four days a week (4, 10's)
+- 33 hours, five days a week, (5, 6.5's)
+- "[40 hours: Why do we treat the ceiling like the floor?](https://docs.google.com/presentation/d/11A3WbVWtyfla6AiycuXb0x8PcCYuIxy_2pTQeUdBd7c/edit#slide=id.p)"
 
